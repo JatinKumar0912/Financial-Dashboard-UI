@@ -1,8 +1,41 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# 💰 Finance Dashboard UI
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+A modern and responsive finance dashboard built using React. This project focuses on clean UI, intuitive UX, and structured frontend architecture.
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard.
+---
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## 🚀 Features
+
+- 📊 Dashboard Overview (Balance, Income, Expenses)
+- 📈 Data Visualizations (Charts for trends & categories)
+- 💸 Transactions Table with filtering & sorting
+- 👤 Role-Based UI (Viewer / Admin - Jatin Kumar)
+- 📊 Insights Section (Spending analysis)
+- 🌙 Responsive Design (Mobile + Desktop)
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- Syncfusion Components
+- Context API (State Management)
+
+---
+
+## 🧠 Approach
+
+This project focuses on:
+- Clean component structure
+- Reusable UI components
+- Responsive layout design
+- Simple and scalable state management
+
+---
+
+## ⚙️ Setup Instructions
+
+```bash
+npm install
+npm start
